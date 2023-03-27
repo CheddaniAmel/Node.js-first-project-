@@ -1,0 +1,25 @@
+installing packages globally
+npm package will let ur code runs without being in need to run each time
+to install : npm install -g nodemon
+
+
+---package.json file
+npm init :to create this file
+
+---Installing packages locally 
+
+lodash 
+
+----Dependencies ----
+
+once i share my code i won't be sharing the modules file so u need to install them by urself simplu with {npm install}
+it will loook at the package.json and install them 
+
+
+----Express----------
+is a framework that helps us to manage our routing requests ,server side logic and responses in more elegant way 
+
+## creating an express app 
+
+Ejs : view engine choice for this app
+ejs is going to be used to create our templates

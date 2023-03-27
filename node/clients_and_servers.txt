@@ -1,0 +1,23 @@
+---communication between browser and server(with node za3ma)---
+well we type a website adress and press enter that sends a request to the server who looks to that request and decide what to send back to the browser(html css images ... )  
+how we know which sever we go to when we write the domain name in the browser
+
+---IP Addressess and Domains 
+ if u create and publish a website it will be hosted on a computer somewhere and that computer will have an IP @
+ since IP @ is a serie of numbers so for that we mask these IP @ with domains
+imagine u type the instagram.com in the browser and u hit enter then the browser will look for the associate ip @ for this domain and then use it to connect to the server on the host computer and then the servr will look at that request and respond 
+
+ this connection between the browserand the server is via http(hyper text transer protocol) which are a set of instructions which dectate how communication occurs
+
+
+ --- Creating a Server---
+creating a local server on our computer using node 
+
+
+--- Status Codes -----------
+describe the type of response sent to the browser 
+200  everything is ok with the request 
+301  resource moved
+404  not found 
+500  Internal server
+ 
